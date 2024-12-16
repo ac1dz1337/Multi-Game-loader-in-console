@@ -1,0 +1,15 @@
+﻿D:\Nuova cartella\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: la directory intermedia (x64\Release\) contiene file condivisi da un altro progetto (Chess1.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  Chess1.cpp
+C:\Users\de122\source\repos\Chess1\Chess1\Chess1.cpp(133,13): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\de122\source\repos\Chess1\Chess1\Chess1.cpp(138,17): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\de122\source\repos\Chess1\Chess1\Chess1.cpp(152,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\de122\source\repos\Chess1\Chess1\Chess1.cpp(2690,44): warning C4806: '==': operazione non affidabile: nessun valore di tipo 'bool' promosso al tipo 'pieceName' può eguagliare la costante data
+C:\Users\de122\source\repos\Chess1\Chess1\Chess1.cpp(2707,44): warning C4806: '==': operazione non affidabile: nessun valore di tipo 'bool' promosso al tipo 'pieceName' può eguagliare la costante data
+C:\Users\de122\source\repos\Chess1\Chess1\Chess1.cpp(2724,44): warning C4806: '==': operazione non affidabile: nessun valore di tipo 'bool' promosso al tipo 'pieceName' può eguagliare la costante data
+C:\Users\de122\source\repos\Chess1\Chess1\Chess1.cpp(2741,44): warning C4806: '==': operazione non affidabile: nessun valore di tipo 'bool' promosso al tipo 'pieceName' può eguagliare la costante data
+  Generazione codice in corso...
+  1 of 358 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Generazione codice terminata
+  Chess1.vcxproj -> C:\Users\de122\source\repos\Chess1\x64\Release\Games Loader.exe
